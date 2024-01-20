@@ -6,7 +6,7 @@ def find_smallest_number(numbers_array):
     # Initialize the smallest number with the first element of the array
     smallest_number = numbers_array[0]
 
-    #Iterate through the array to find the smallest number
+    #Iterate through the array to find the smallest number tewst
     for num in numbers_array:
         if num < smallest_number:
             smallest_number = num
